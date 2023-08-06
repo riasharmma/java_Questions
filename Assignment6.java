@@ -1,4 +1,5 @@
-
+/*Given two list X and Y. Find a pair of elements (𝑥𝑖, 𝑦𝑖) such that
+𝑥𝑖 ∈ 𝑋 and 𝑦𝑖 ∈ 𝑌 where 𝑥𝑖 + 𝑦𝑖 = 𝑣𝑎𝑙𝑢𝑒.*/
 
 package coding;
 import java.util.*;
